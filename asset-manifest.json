@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bank-Check-Entry/static/css/main.21bb7218.css",
+    "main.js": "/Bank-Check-Entry/static/js/main.fbacac7a.js",
+    "index.html": "/Bank-Check-Entry/index.html",
+    "main.21bb7218.css.map": "/Bank-Check-Entry/static/css/main.21bb7218.css.map",
+    "main.fbacac7a.js.map": "/Bank-Check-Entry/static/js/main.fbacac7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21bb7218.css",
+    "static/js/main.fbacac7a.js"
+  ]
+}
